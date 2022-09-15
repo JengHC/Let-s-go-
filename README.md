@@ -14,3 +14,5 @@
 :camera: 제작 과정 및 사진
 - 울산
 - ![태화강 국가정원](./Image/Taehaw.PNG)
+
+- ![김해 천문대](./Image/OBS.PNG)
