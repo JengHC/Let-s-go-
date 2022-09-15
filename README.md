@@ -12,4 +12,4 @@
 
  - - -
 :camera: 제작 과정 및 사진
-- [울산](./images/Taehaw.png)
+- [울산](./Image/Taehaw.png)
