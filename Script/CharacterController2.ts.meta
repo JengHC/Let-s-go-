@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: d68e002e95c62294a8c718a269755a0c
+importerOverride: ZEPETO.Script.Compiler:ZEPETO.Script:TypescriptAssetImporter
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: -1123457745, guid: 54cf806323ffe4418a4ce4cc63fe6b9d, type: 3}
+  isAssemblyDeclarations: 0
+  assembly: 
+  generateAllTypes: 1
+  types: []
+  generateWrapper: 0
+  overrideWrapperTypes: 0
+  wrapperTypes: []
+  WrapperFilters: []
+  wrapperOutputDirectory: Generated
+  compiledResult: '{"source":"\"use strict\";\r\nObject.defineProperty(exports, \"__esModule\",
+    { value: true });\r\nconst ZEPETO_Script_1 = require(\"ZEPETO.Script\");\r\nconst
+    ZEPETO_Character_Controller_1 = require(\"ZEPETO.Character.Controller\");\r\nconst
+    UnityEngine_1 = require(\"UnityEngine\");\r\nclass CharacterController2 extends
+    ZEPETO_Script_1.ZepetoScriptBehaviour {\r\n    Start() {\r\n        //Character
+    Spawn Coordinate Change Script\r\n        var spawnInfo = new ZEPETO_Character_Controller_1.SpawnInfo();\r\n       
+    spawnInfo.position = new UnityEngine_1.Vector3(220.45, 1.94, -39.31);\r\n       
+    spawnInfo.rotation = UnityEngine_1.Quaternion.identity;\r\n        $extension(\"ZEPETO.Character.Controller.ZepetoPlayersExtension\").CreatePlayerWithZepetoId(ZEPETO_Character_Controller_1.ZepetoPlayers.instance,
+    \"lover123e\", \"lover123e\", spawnInfo, true);\r\n        ZEPETO_Character_Controller_1.ZepetoPlayers.instance.OnAddedLocalPlayer.AddListener(()
+    => {\r\n            let _player = ZEPETO_Character_Controller_1.ZepetoPlayers.instance.LocalPlayer;\r\n       
+    });\r\n    }\r\n}\r\nexports.default = CharacterController2;\r\n// import { ZepetoScriptBehaviour
+    } from ''ZEPETO.Script''\r\n// import { SpawnInfo, ZepetoPlayers, LocalPlayer,
+    ZepetoCharacter } from ''ZEPETO.Character.Controller''\r\n// import { WorldService
+    } from ''ZEPETO.World'';\r\n// //import { Quaternion, Vector3 } from ''UnityEngine'';\r\n//
+    export default class CharacterController extends ZepetoScriptBehaviour {\r\n//    
+    Start() {\r\n//         // var spawnInfo = new SpawnInfo();\r\n//         //
+    spawnInfo.position = new Vector3(0,0,5);\r\n//         // spawnInfo.rotation
+    = Quaternion.identity;\r\n//         //Gets the UserId (logged in through Editor)\r\n//        
+    ZepetoPlayers.instance.CreatePlayerWithUserId(WorldService.userId,new SpawnInfo(),
+    true);\r\n//         ZepetoPlayers.instance.OnAddedLocalPlayer.AddListener(()
+    => {\r\n//             let _player : LocalPlayer = ZepetoPlayers.instance.LocalPlayer;\r\n//        
+    });\r\n//     }\r\n// }  \r\n//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQ2hhcmFjdGVyQ29udHJvbGxlcjIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJDaGFyYWN0ZXJDb250cm9sbGVyMi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUFBLGlEQUFxRDtBQUNyRCw2RUFBcUU7QUFDckUsNkNBQWtEO0FBRWxELE1BQXFCLG9CQUFxQixTQUFRLHFDQUFxQjtJQUVuRSxLQUFLO1FBQ0QsMENBQTBDO1FBQzFDLElBQUksU0FBUyxHQUFHLElBQUksdUNBQVMsRUFBRSxDQUFDO1FBQ2hDLFNBQVMsQ0FBQyxRQUFRLEdBQUcsSUFBSSxxQkFBTyxDQUFDLE1BQU0sRUFBRSxJQUFJLEVBQUUsQ0FBQyxLQUFLLENBQUMsQ0FBQztRQUN2RCxTQUFTLENBQUMsUUFBUSxHQUFHLHdCQUFVLENBQUMsUUFBUSxDQUFDO1FBRXpDLGlFQUF1Qix3QkFBd0IsQ0FBL0MsMkNBQWEsQ0FBQyxRQUFRLEVBQTBCLFdBQVcsRUFBRSxXQUFXLEVBQUUsU0FBUyxFQUFDLElBQUksRUFBRTtRQUMxRiwyQ0FBYSxDQUFDLFFBQVEsQ0FBQyxrQkFBa0IsQ0FBQyxXQUFXLENBQUMsR0FBRSxFQUFFO1lBQ3RELElBQUksT0FBTyxHQUFHLDJDQUFhLENBQUMsUUFBUSxDQUFDLFdBQVcsQ0FBQztRQUNyRCxDQUFDLENBQUMsQ0FBQTtJQUNOLENBQUM7Q0FDSjtBQWJELHVDQWFDO0FBRUQsd0RBQXdEO0FBQ3hELHVHQUF1RztBQUN2RywrQ0FBK0M7QUFDL0MsdURBQXVEO0FBQ3ZELDJFQUEyRTtBQUMzRSxnQkFBZ0I7QUFDaEIsOENBQThDO0FBQzlDLHNEQUFzRDtBQUN0RCx1REFBdUQ7QUFDdkQsdURBQXVEO0FBQ3ZELG9HQUFvRztBQUNwRyx3RUFBd0U7QUFDeEUsOEVBQThFO0FBQzlFLGNBQWM7QUFDZCxRQUFRO0FBQ1IsTUFBTSJ9","assetPath":"Assets/Script/CharacterController2.ts","manifest":{"properties":[],"name":"CharacterController2","description":""},"isCompiled":true}'
+  typescriptHash: 962a372e9ad946a76694635340da5f8b

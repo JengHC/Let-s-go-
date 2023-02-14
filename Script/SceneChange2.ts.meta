@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 4f1fafee67b29f94d923af92b40a8f40
+importerOverride: ZEPETO.Script.Compiler:ZEPETO.Script:TypescriptAssetImporter
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: -1123457745, guid: 54cf806323ffe4418a4ce4cc63fe6b9d, type: 3}
+  isAssemblyDeclarations: 0
+  assembly: 
+  generateAllTypes: 1
+  types: []
+  generateWrapper: 0
+  overrideWrapperTypes: 0
+  wrapperTypes: []
+  WrapperFilters: []
+  wrapperOutputDirectory: Generated
+  compiledResult: '{"source":"\"use strict\";\r\nObject.defineProperty(exports, \"__esModule\",
+    { value: true });\r\nconst ZEPETO_Script_1 = require(\"ZEPETO.Script\");\r\nconst
+    UnityEngine_SceneManagement_1 = require(\"UnityEngine.SceneManagement\");\r\nclass
+    SceneChange2 extends ZEPETO_Script_1.ZepetoScriptBehaviour {\r\n    //sceneIndex:
+    int;\r\n    Start() {\r\n        //this.sceneIndex = SceneManager.GetActiveScene().buildIndex;\r\n   
+    }\r\n    OnTriggerEnter(collider) {\r\n        //SceneManager.LoadScene(this.sceneIndex-1);\r\n       
+    UnityEngine_SceneManagement_1.SceneManager.LoadScene(\"5rasadae\");\r\n    }\r\n}\r\nexports.default
+    = SceneChange2;\r\n//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiU2NlbmVDaGFuZ2UyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiU2NlbmVDaGFuZ2UyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsaURBQXFEO0FBQ3JELDZFQUEwRDtBQUcxRCxNQUFxQixZQUFhLFNBQVEscUNBQXFCO0lBRTNELGtCQUFrQjtJQUVsQixLQUFLO1FBQ0QsNkRBQTZEO0lBQ2pFLENBQUM7SUFFRCxjQUFjLENBQUMsUUFBUTtRQUVuQiw0Q0FBNEM7UUFDNUMsMENBQVksQ0FBQyxTQUFTLENBQUMsVUFBVSxDQUFDLENBQUM7SUFDdkMsQ0FBQztDQUNKO0FBYkQsK0JBYUMifQ==","assetPath":"Assets/Script/SceneChange2.ts","manifest":{"properties":[],"name":"SceneChange2","description":""},"isCompiled":true}'
+  typescriptHash: 0677d957ec2c83ef044a23189810e3c5

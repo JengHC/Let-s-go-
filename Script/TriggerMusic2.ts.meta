@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: c4157a93f5163844fbbc05fe4583869b
+importerOverride: ZEPETO.Script.Compiler:ZEPETO.Script:TypescriptAssetImporter
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: -1123457745, guid: 54cf806323ffe4418a4ce4cc63fe6b9d, type: 3}
+  isAssemblyDeclarations: 0
+  assembly: 
+  generateAllTypes: 1
+  types: []
+  generateWrapper: 0
+  overrideWrapperTypes: 0
+  wrapperTypes: []
+  WrapperFilters: []
+  wrapperOutputDirectory: Generated
+  compiledResult: "{\"source\":\"\\\"use strict\\\";\\r\\nObject.defineProperty(exports,
+    \\\"__esModule\\\", { value: true });\\r\\nconst ZEPETO_Script_1 = require(\\\"ZEPETO.Script\\\");\\r\\nconst
+    UnityEngine_1 = require(\\\"UnityEngine\\\");\\r\\nclass TriggerMusic2 extends
+    ZEPETO_Script_1.ZepetoScriptBehaviour {\\r\\n    constructor() {\\r\\n       
+    super(...arguments);\\r\\n        this.targetTag = \\\"Music2\\\";\\r\\n       
+    // OnTriggerEnter(Spherecollider){\\r\\n        //     this.playSound.Play();\\r\\n       
+    // }\\r\\n        // OnTriggerExit(Spherecollider){\\r\\n        //     this.playSound.Stop();\\r\\n       
+    // }\\r\\n        // OnTriggerEnter(Spherecollider){\\r\\n        //     if(this.gameObject.tag
+    == \\\"Music2\\\"){\\r\\n        //         this.playSound.Play();\\r\\n       
+    //     }\\r\\n        // }\\r\\n        // OnTriggerExit(Spherecollider){\\r\\n       
+    //     if(this.gameObject.tag=\\\"Music2\\\"){\\r\\n        //     this.playSound.Stop();\\r\\n       
+    //     }\\r\\n        // }\\r\\n    }\\r\\n    OnTriggerEnter(collider) {\\r\\n       
+    if (this.gameObject.CompareTag(this.targetTag)) {\\r\\n            this.playSound.Play();\\r\\n           
+    UnityEngine_1.Debug.Log(\\\"\uBD80\uC0B0 \uB178\uB798 \uC7AC\uC0DD\\\");\\r\\n       
+    }\\r\\n    }\\r\\n    OnTriggerExit(collider) {\\r\\n        if (this.gameObject.CompareTag(this.targetTag))
+    {\\r\\n            this.playSound.Stop();\\r\\n        }\\r\\n    }\\r\\n}\\r\\nexports.default
+    = TriggerMusic2;\\r\\n//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiVHJpZ2dlck11c2ljMi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIlRyaWdnZXJNdXNpYzIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxpREFBcUQ7QUFDckQsNkNBQTZEO0FBRzdELE1BQXFCLGFBQWMsU0FBUSxxQ0FBcUI7SUFBaEU7O1FBR0ksY0FBUyxHQUFZLFFBQVEsQ0FBQztRQWlCM0Isa0NBQWtDO1FBQ3JDLDZCQUE2QjtRQUM3QixJQUFJO1FBQ0osaUNBQWlDO1FBQ2pDLDZCQUE2QjtRQUM3QixJQUFJO1FBRUosa0NBQWtDO1FBQ2xDLDJDQUEyQztRQUMzQyxpQ0FBaUM7UUFDakMsUUFBUTtRQUVSLElBQUk7UUFDSixpQ0FBaUM7UUFDakMsd0NBQXdDO1FBQ3hDLDZCQUE2QjtRQUM3QixRQUFRO1FBQ1IsSUFBSTtJQUNSLENBQUM7SUFqQ0csY0FBYyxDQUFDLFFBQVE7UUFFbkIsSUFBRyxJQUFJLENBQUMsVUFBVSxDQUFDLFVBQVUsQ0FBQyxJQUFJLENBQUMsU0FBUyxDQUFDLEVBQzdDO1lBQ0ksSUFBSSxDQUFDLFNBQVMsQ0FBQyxJQUFJLEVBQUUsQ0FBQztZQUN0QixtQkFBSyxDQUFDLEdBQUcsQ0FBQyxVQUFVLENBQUMsQ0FBQztTQUN6QjtJQUNMLENBQUM7SUFDRCxhQUFhLENBQUMsUUFBUTtRQUVsQixJQUFHLElBQUksQ0FBQyxVQUFVLENBQUMsVUFBVSxDQUFDLElBQUksQ0FBQyxTQUFTLENBQUMsRUFDN0M7WUFDQSxJQUFJLENBQUMsU0FBUyxDQUFDLElBQUksRUFBRSxDQUFDO1NBQ3JCO0lBQ0wsQ0FBQztDQW1CSjtBQXRDRCxnQ0FzQ0MifQ==\",\"assetPath\":\"Assets/Script/TriggerMusic2.ts\",\"manifest\":{\"properties\":[{\"assembly\":\"UnityEngine.AudioModule\",\"name\":\"playSound\",\"type\":\"UnityEngine.AudioSource\",\"isArray\":false,\"initValue\":[],\"enumKeys\":[],\"enumValues\":[],\"attributes\":[]},{\"assembly\":\"mscorlib\",\"name\":\"targetTag\",\"type\":\"System.String\",\"isArray\":false,\"initValue\":[\"Music2\"],\"enumKeys\":[],\"enumValues\":[],\"attributes\":[]}],\"name\":\"TriggerMusic2\",\"description\":\"\"},\"isCompiled\":true}"
+  typescriptHash: f2684324b4f70544d784d70c6829abde
