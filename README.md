@@ -23,5 +23,5 @@
 
 - 지하철역
 
-![지하철역](./Image/staiton.PNG)
+![지하철역](./Image/station.PNG)
 
