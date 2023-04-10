@@ -1,5 +1,5 @@
 # :computer: Let's go!! 지하철로 떠나는 부울경 수학여행
-![CoverImage](https://user-images.githubusercontent.com/70684380/230895869-25d06365-f5bc-4f55-8512-142186d4da4c.png)
+![CoverImage](https://user-images.githubusercontent.com/70684380/230895869-25d06365-f5bc-4f55-8512-142186d4da4c.png width="700" height="370")
 
 **한국컨텐츠 진흥원에서 추최하는 </u>인공지능 컨텐츠 인재양성</u> 프로젝트** 강의를 수강
 - 진행상황으로는 Zepeto와 Unity로 제작
