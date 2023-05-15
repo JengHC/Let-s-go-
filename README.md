@@ -30,7 +30,7 @@
 
 - 김해 
 
-![김해 천문대] <img src="https://github.com/JengHC/Zepeto-World-Busan-Ulsan-Kimhae-/assets/70684380/c202774f-57ba-491a-a2a2-c4a36e7e6e76.png" width="400" height="500"/>
+<img src="https://github.com/JengHC/Zepeto-World-Busan-Ulsan-Kimhae-/assets/70684380/c202774f-57ba-491a-a2a2-c4a36e7e6e76.png" width="200" height="300"/>
 
 - 지하철역
 
