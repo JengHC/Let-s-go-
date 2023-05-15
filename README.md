@@ -22,7 +22,7 @@
         - Zepeto월드 제작 및 Unity를 통한 월드 구축
         - Maya를 통한 오브젝트 제작
 
-:camera: ### 제작 과정 및 사진
+### :camera: 제작 과정 및 사진
 - 울산 
 
 ![태화강 국가정원](./Image/Taehaw.PNG)
