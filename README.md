@@ -31,7 +31,7 @@
 <img src="https://github.com/JengHC/Zepeto-World-Busan-Ulsan-Kimhae-/assets/70684380/c202774f-57ba-491a-a2a2-c4a36e7e6e76.png" width="300" height="350"/>
 
 - 지하철역
-<img src=https://github.com/JengHC/Zepeto-World-Busan-Ulsan-Kimhae-/assets/70684380/e0f8c48b-6344-44be-97b3-21a36097ffc5.png" width="300" height="350"/>
+<img src="https://github.com/JengHC/Zepeto-World-Busan-Ulsan-Kimhae-/assets/70684380/e0f8c48b-6344-44be-97b3-21a36097ffc5.png" width="300" height="350"/>
 
 
 ### 성과
