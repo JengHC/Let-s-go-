@@ -1,4 +1,4 @@
-# :computer: Let's go!! 지하철로 떠나는 부울경 수학여행
+# :computer: [Let's go!! 지하철로 떠나는 부울경 수학여행](https://web.zepeto.me/ko/detail/eT1Np3wK87htnkIhTSnFCyI?referrer=copylink_share)
 <img src="https://user-images.githubusercontent.com/70684380/230895869-25d06365-f5bc-4f55-8512-142186d4da4c.png" width="400" height="500"/>
 
 ### [11](https://web.zepeto.me/ko/detail/eT1Np3wK87htnkIhTSnFCyI?referrer=copylink_share)
