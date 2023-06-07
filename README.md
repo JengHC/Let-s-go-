@@ -4,7 +4,7 @@
 ### [GO TO THE WORLD](https://web.zepeto.me/ko/detail/eT1Np3wK87htnkIhTSnFCyI?referrer=copylink_share)
 
 **한국콘텐츠진흥원 주관으로 진행한 </u>인공지능 컨텐츠 인재양성</u> 프로젝트** 교육 이수
-- 진행상황으로는 Zepeto와 Unity로 제작
+- Zepeto와 Unity로 제작
 - Zepeto Build it을 통해 사용가능한 건물 에셋 사용
 - 3D Moedling 프로그램인 <mark>Maya</mark>를 사용해서 필요한 조형물 및 건물을 제작
 
