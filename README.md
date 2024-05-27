@@ -23,12 +23,15 @@
 ### 역할
 - 프로젝트 전체 인원 : 5명
 - 나의 역할
-    - Zepeto 월드 총괄 및 Unity담당 개발
-        - 월드 주제 선정
-        - Zepeto 월드 제작
-        - Unity 월드 구축
-        - 3D 오브젝트 제작
-
+    - 팀원
+        - Zepeto **월드 기획(50%), Unity 개발(100%)**
+        - 월드 주제 및 시나리오 작성
+        - 월드 체크리스트 작성
+        - 각 월드 콘텐츠 기획
+        - Zepeto월드 제작
+        - Unity를 통한 월드 구축
+        - Maya를 통한 오브젝트 제작
+    
 ### :camera: 제작 과정 및 사진
 - 울산 
 <img src="https://github.com/JengHC/Zepeto-World-Busan-Ulsan-Kimhae-/assets/70684380/182e72fa-ebf4-46c6-8035-3fddcc631d3f.png" width="300" height="350"/> 
